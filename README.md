@@ -9,7 +9,7 @@ Tenho experiência em metodologias ágeis (Scrum e Kambam)<br />
 Vivência em squad, trabalho em time colaborativo e possuo um perfil pró-ativo<br />
 Consigo gerenciar meu tempo de forma que eu possa aprender e contribuir com a empresa<br />
 Gosto de pessoas, gosto de conversar e sou muito transparente ao falar sobre mim<br />
-# Expêrincia como QA:
+# Experiência como QA:
 Tenho experiência com automações de testes WEB com Cypress<br />
 Tenho experiência com automações de testes de API com Cypress e Supertest<br />
 Tenho experiência com testes manuais de API com postman
